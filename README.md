@@ -32,10 +32,8 @@ Upload the generated CSV files into the system to analyze the traffic. The Rando
 - Detect the absence of DDoS attacks in normal traffic.
 - Detect the presence of DDoS attacks in malicious traffic.
 
----
+## **Demonstration**
 
 ![Demo](Demo.gif)
-
----
 
 
